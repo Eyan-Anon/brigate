@@ -1,0 +1,641 @@
+@media (min-width:200px) and (max-width: 576px){
+    .top-header {
+        display: none;
+    }
+      .swiper-button-next {
+        display: none;
+    }
+    .swiper-button-prev {
+        display: none;
+    }
+    .banner-caption h2 {
+        font-size: 26px !important;
+        line-height: 36px !important;
+        margin-bottom: 0px !important;
+    }
+    .banner-caption p {
+        font-size: 10px !important;
+        line-height: 20px !important;
+        margin-top: 7px !important;
+        margin-bottom: 15px !important;
+    }
+    .btn-warning {
+        font-size: 12px !important;
+        padding: 10px 25px !important;
+        width: 130px !important;
+    }
+    .banner-caption {
+        text-align: left !important;
+        min-height: 46vh !important;
+        display: flex !important;
+        justify-content: center !important;
+        flex-direction: column !important;
+    }
+    .swiper-slide {
+        font-size: 26px !important;
+        line-height: 0px !important;
+        margin-bottom: 0px !important;
+    }
+    .swiper-pagination-bullet {
+        width: 10px;
+        height: 10px;
+    }
+    .card-section {
+        padding: 50px 0px 30px 0px !important;
+    }
+    .inner-card h3 {
+        font-size: 18px !important;
+        line-height: 28px !important;
+        margin-top: 15px !important;
+        margin-bottom: 15px !important;
+    }
+    .inner-card p {
+        font-size: 14px !important;
+        line-height: 24px !important;
+        margin-bottom: 15px !important;
+    }
+    .inner-card {
+        padding: 30px 20px !important;
+        margin-bottom: 18px !important;
+    }
+    .work-with {
+        padding: 50px 0 !important;
+    }
+    .work-with-right h1 {
+        font-size: 24px !important;
+        line-height: 34px !important;
+        margin-top: 15px !important;
+        text-align: center !important;
+    }
+    .work-with-right p {
+        font-size: 14px !important;
+        line-height: 24px !important;
+        margin-top: 5px !important;
+        text-align: justify !important;
+    }
+      .work-with-right {
+        margin-left: 0px !important;
+        padding: 0px 10px !important;
+    }
+    .inner-work-list ul li {
+        padding: 5px 0 !important;
+    }
+    .inner-work-list ul li a {
+        font-size: 11px !important;
+        line-height: 21px !important;
+    }
+    .inner-work-list {
+        margin-left: 10px !important;
+    }
+    .inner-work-list ul {
+        margin-bottom: 10px !important;
+    }
+    .number-counter {
+        padding: 50px 0 !important;
+    }
+    .inner-number-counter {
+        margin-bottom: 25px !important;
+        border-bottom: 1px solid #ddd !important;
+    }
+    .inner-number-counter h1 {
+        font-size: 55px !important;
+        line-height: 65px !important;
+        margin-top: 5px !important;
+    }
+    .inner-number-counter h3 {
+        font-size: 20px !important;
+        margin-top: 0px !important;
+    }
+    .more-from-us {
+        padding: 50px 0 !important;
+    }
+    .brigate-text h1 {
+        font-size: 28px !important;
+        line-height: 38px !important;
+        margin-bottom: 25px !important;
+    }
+    .brigate-text p {
+        font-size: 12px !important;
+    }
+    .inner-more-bottom {
+        margin-top: 10px !important;
+    }
+    .inner-more-bottom .card .text-div h4 {
+        margin-top: 15px !important;
+        font-size: 18px !important;
+        text-align: center !important;
+    }
+    .inner-more-bottom .card .text-div p {
+        margin-top: 0px !important;
+        font-size: 12px !important;
+        line-height: 22px !important;
+    }
+    .price-plan {
+        padding: 50px 0 !important;
+    }
+    .inner-price-form {
+        padding: 20px 20px !important;
+        margin-top: 12px !important;
+    }
+    .inner-price-form ul li {
+        padding: 8px 0 !important;
+        font-size: 14px !important;
+    }
+    .idea {
+        padding: 40px 0 !important;
+    }
+    .idea-right h1 {
+        font-size: 21px !important;
+    }
+    .idea-right p {
+        margin-bottom: 30px !important;
+        font-size: 12px !important;
+        line-height: 22px !important;
+    }
+    .wrapper {
+        padding: 38px 40px !important;
+    }
+    .idea-right-bottom {
+        margin-bottom: 20px !important;
+    }
+    .team-social {
+        right: 26px !important;
+    }
+    .text-center {
+        margin-top: 15px !important;
+    }
+    .projects {
+        padding: 50px 0 !important;
+    }
+    .inner-projects .title-div h3 {
+        font-size: 18px !important;
+        line-height: 28px !important;
+    }
+    .news {
+        padding: 50px 0 !important;
+    }
+    .inner-news {
+        margin-top: 10px !important;
+    }
+    .card-text p {
+        font-size: 12px !important;
+        line-height: 22px !important;
+        margin-top: 1px !important;
+    }
+    .card-text .title {
+        margin-top: 10px !important;
+    }
+    .inner-call .sub {
+        right: -27px !important;
+    }
+    .inner-call2 {
+        padding: 0px 20px !important;
+    }
+    .inner-call3 {
+        padding: 30px 20px !important;
+    }
+    .footer {
+        padding: 140px 0px 40px 0px !important;
+    }
+    .inner-footer-text {
+        margin-bottom: 25px !important;
+    }
+    .inner-footer-text3 {
+        margin-bottom: 25px !important;
+    }
+
+    
+}
+
+
+@media (min-width:577px) and (max-width: 767px){
+    .top-header {
+        display: none;
+    }
+      .swiper-button-next {
+        display: none;
+    }
+    .swiper-button-prev {
+        display: none;
+    }
+    .banner-caption h2 {
+        font-size: 38px !important;
+        line-height: 48px !important;
+        margin-bottom: 0px !important;
+    }
+    .banner-caption p {
+        font-size: 12px !important;
+        line-height: 22px !important;
+        margin-top: 7px !important;
+        margin-bottom: 15px !important;
+    }
+    .btn-warning {
+        font-size: 12px !important;
+        padding: 10px 25px !important;
+        width: 130px !important;
+    }
+    .banner-caption {
+        text-align: left !important;
+        min-height: 56vh !important;
+        display: flex !important;
+        justify-content: center !important;
+        flex-direction: column !important;
+    }
+    .swiper-slide {
+        font-size: 26px !important;
+        line-height: 0px !important;
+        margin-bottom: 0px !important;
+    }
+    .swiper-pagination-bullet {
+        width: 10px;
+        height: 10px;
+    }
+    .card-section {
+        padding: 60px 0px 30px 0px !important;
+    }
+    .inner-card h3 {
+        font-size: 22px !important;
+        line-height: 32px !important;
+        margin-top: 20px !important;
+        margin-bottom: 20px !important;
+    }
+    .inner-card p {
+        font-size: 14px !important;
+        line-height: 24px !important;
+        margin-bottom: 15px !important;
+    }
+    .inner-card {
+        padding: 30px 25px !important;
+        margin-bottom: 18px !important;
+    }
+    .work-with {
+        padding: 60px 0 !important;
+    }
+    .work-with-right h1 {
+        font-size: 28px !important;
+        line-height: 38px !important;
+        margin-top: 15px !important;
+        text-align: center !important;
+    }
+    .work-with-right p {
+        font-size: 14px !important;
+        line-height: 24px !important;
+        margin-top: 5px !important;
+        text-align: justify !important;
+    }
+      .work-with-right {
+        margin-left: 0px !important;
+        padding: 0px 10px !important;
+    }
+    .inner-work-list ul li {
+        padding: 5px 0 !important;
+    }
+    .inner-work-list ul li a {
+        font-size: 14px !important;
+        line-height: 24px !important;
+    }
+    .inner-work-list {
+        margin-left: 10px !important;
+    }
+    .inner-work-list ul {
+        margin-bottom: 10px !important;
+    }
+    .number-counter {
+        padding: 50px 0 !important;
+    }
+    .inner-number-counter {
+        margin-bottom: 25px !important;
+       
+    }
+    .inner-number-counter h1 {
+        font-size: 55px !important;
+        line-height: 65px !important;
+        margin-top: 5px !important;
+    }
+    .inner-number-counter h3 {
+        font-size: 20px !important;
+        margin-top: 0px !important;
+    }
+    .more-from-us {
+        padding: 60px 0 !important;
+    }
+    .brigate-text h1 {
+        font-size: 32px !important;
+        line-height: 42px !important;
+        margin-bottom: 25px !important;
+    }
+    .brigate-text p {
+        font-size: 14px !important;
+    }
+    .inner-more-bottom {
+        margin-top: 20px !important;
+        text-align: center;
+    }
+    .inner-more-bottom .card .text-div h4 {
+        margin-top: 15px !important;
+        font-size: 22px !important;
+        text-align: center !important;
+    }
+    .inner-more-bottom .card .text-div p {
+        margin-top: 0px !important;
+        font-size: 14px !important;
+        line-height: 24px !important;
+        padding: 20px !important;
+    }
+    .price-plan {
+        padding: 60px 0 !important;
+    }
+    .inner-price-form {
+        padding: 20px 20px !important;
+        margin-top: 12px !important;
+    }
+    .inner-price-form ul li {
+        padding: 8px 0 !important;
+        font-size: 14px !important;
+    }
+    .idea {
+        padding: 50px 0 !important;
+    }
+    .idea-right h1 {
+        font-size: 24px !important;
+    }
+    .idea-right p {
+        margin-bottom: 30px !important;
+        font-size: 14px !important;
+        line-height: 24px !important;
+    }
+    .wrapper {
+        padding: 38px 40px !important;
+    }
+    .idea-right-bottom {
+        margin-bottom: 20px !important;
+    }
+    .team-social {
+        right: 26px !important;
+    }
+    .team-social ul li {
+        padding: 0px 2px !important;
+    }
+    .text-center {
+        margin-top: 15px !important;
+    }
+    .projects {
+        padding: 60px 0 !important;
+    }
+    .inner-projects .title-div h3 {
+        font-size: 18px !important;
+        line-height: 28px !important;
+    }
+    .news {
+        padding: 60px 0 !important;
+    }
+    .inner-news {
+        margin-top: 10px !important;
+    }
+    .card-text p {
+        font-size: 14px !important;
+        line-height: 24px !important;
+        margin-top: 1px !important;
+    }
+    .card-text .title {
+        margin-top: 10px !important;
+    }
+    .inner-call .sub {
+        right: 159px !important;
+    }
+    .inner-call2 {
+        padding: 0px 20px !important;
+    }
+    .inner-call3 {
+        padding: 30px 20px !important;
+    }
+    .footer {
+        padding: 140px 0px 40px 0px !important;
+    }
+    .inner-footer-text {
+        margin-bottom: 25px !important;
+    }
+    .inner-footer-text3 {
+        margin-bottom: 25px !important;
+    }
+
+    
+}
+
+
+@media (min-width:768px) and (max-width: 992px){
+    .top-header {
+        display: none;
+    }
+      .swiper-button-next {
+        display: none;
+    }
+    .swiper-button-prev {
+        display: none;
+    }
+    .banner-caption h2 {
+        font-size: 48px !important;
+        line-height: 58px !important;
+        margin-bottom: 10px !important;
+    }
+    .banner-caption p {
+        font-size: 14px !important;
+        line-height: 24px !important;
+        margin-top: 7px !important;
+        margin-bottom: 15px !important;
+    }
+    .btn-warning {
+        font-size: 12px !important;
+        padding: 10px 25px !important;
+        width: 130px !important;
+    }
+    .banner-caption {
+        text-align: left !important;
+        min-height: 56vh !important;
+        display: flex !important;
+        justify-content: center !important;
+        flex-direction: column !important;
+    }
+    .swiper-slide {
+        font-size: 26px !important;
+        line-height: 0px !important;
+        margin-bottom: 0px !important;
+    }
+    .swiper-pagination-bullet {
+        width: 10px;
+        height: 10px;
+    }
+    .card-section {
+        padding: 60px 0px 30px 0px !important;
+    }
+    .inner-card h3 {
+        font-size: 22px !important;
+        line-height: 32px !important;
+        margin-top: 20px !important;
+        margin-bottom: 20px !important;
+    }
+    .inner-card p {
+        font-size: 14px !important;
+        line-height: 24px !important;
+        margin-bottom: 15px !important;
+    }
+    .inner-card {
+        padding: 30px 25px !important;
+        margin-bottom: 18px !important;
+    }
+    .work-with {
+        padding: 60px 0 !important;
+    }
+    .work-with-left{
+        margin-top: 80px;
+    }
+    .work-with-right h1 {
+        font-size: 28px !important;
+        line-height: 38px !important;
+        margin-top: 15px !important;
+        text-align: center !important;
+    }
+    .work-with-right p {
+        font-size: 14px !important;
+        line-height: 24px !important;
+        margin-top: 5px !important;
+        text-align: justify !important;
+    }
+      .work-with-right {
+        margin-left: 0px !important;
+        padding: 0px 10px !important;
+    }
+    .inner-work-list ul li {
+        padding: 5px 0 !important;
+    }
+    .inner-work-list ul li a {
+        font-size: 14px !important;
+        line-height: 24px !important;
+    }
+    .inner-work-list {
+        margin-left: 10px !important;
+    }
+    .inner-work-list ul {
+        margin-bottom: 10px !important;
+    }
+    .number-counter {
+        padding: 50px 0 !important;
+    }
+    .inner-number-counter {
+        margin-bottom: 25px !important;
+       
+    }
+    .inner-number-counter h1 {
+        font-size: 55px !important;
+        line-height: 65px !important;
+        margin-top: 5px !important;
+    }
+    .inner-number-counter h3 {
+        font-size: 20px !important;
+        margin-top: 0px !important;
+    }
+    .more-from-us {
+        padding: 60px 0 !important;
+    }
+    .brigate-text h1 {
+        font-size: 32px !important;
+        line-height: 42px !important;
+        margin-bottom: 25px !important;
+    }
+    .brigate-text p {
+        font-size: 14px !important;
+    }
+    .inner-more-bottom {
+        margin-top: 20px !important;
+        text-align: center;
+    }
+    .inner-more-bottom .card .text-div h4 {
+        margin-top: 15px !important;
+        font-size: 22px !important;
+        text-align: center !important;
+    }
+    .inner-more-bottom .card .text-div p {
+        margin-top: 0px !important;
+        font-size: 14px !important;
+        line-height: 24px !important;
+        padding: 20px !important;
+    }
+    .price-plan {
+        padding: 60px 0 !important;
+    }
+    .inner-price-form {
+        padding: 20px 20px !important;
+        margin-top: 12px !important;
+    }
+    .inner-price-form ul li {
+        padding: 8px 0 !important;
+        font-size: 14px !important;
+    }
+    .idea {
+        padding: 50px 0 !important;
+    }
+    .idea-right h1 {
+        font-size: 24px !important;
+    }
+    .idea-right p {
+        margin-bottom: 30px !important;
+        font-size: 14px !important;
+        line-height: 24px !important;
+    }
+    .wrapper {
+        padding: 38px 40px !important;
+    }
+    .idea-right-bottom {
+        margin-bottom: 20px !important;
+    }
+    .team-social {
+        right: 64px !important;
+    }
+    .team-social ul li {
+        padding: 0px 2px !important;
+    }
+    .text-center {
+        margin-top: 15px !important;
+    }
+    .projects {
+        padding: 60px 0 !important;
+    }
+    .inner-projects .title-div h3 {
+        font-size: 18px !important;
+        line-height: 28px !important;
+    }
+    .news {
+        padding: 60px 0 !important;
+    }
+    .inner-news {
+        margin-top: 10px !important;
+    }
+    .card-text p {
+        font-size: 14px !important;
+        line-height: 24px !important;
+        margin-top: 1px !important;
+    }
+    .card-text .title {
+        margin-top: 10px !important;
+    }
+    .inner-call .sub {
+        right: 9px !important;
+    }
+    .inner-call2 {
+        padding: 0px 20px !important;
+    }
+    .inner-call3 {
+        padding: 30px 20px !important;
+    }
+    .footer {
+        padding: 140px 0px 40px 0px !important;
+    }
+    .inner-footer-text {
+        margin-bottom: 25px !important;
+    }
+    .inner-footer-text3 {
+        margin-bottom: 25px !important;
+    }
+
+    
+}
